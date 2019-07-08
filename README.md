@@ -14,6 +14,7 @@ This project focus's on building a local multiplayer online session. the project
 - Familiarity with the Microsoft office suite
 - Experience Creating 3D assets
 - Experience importing Maya assets into unreal
+- Basic software engineering network skills
 
 # Screenshots of Blueprint mechanics will be provided in the file tree.
 
