@@ -12,6 +12,8 @@ This project focus's on building a local multiplayer online session. the project
 - Basic level design structure
 - Familiarity with being in a Leadership role
 - Familiarity with the Microsoft office suite
+- Experience Creating 3D assets
+- Experience importing Maya assets into unreal
 
 # Screenshots of Blueprint mechanics will be provided in the file tree.
 
