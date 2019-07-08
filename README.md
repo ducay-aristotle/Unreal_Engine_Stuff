@@ -18,5 +18,7 @@ This project focus's on building a local multiplayer online session. the project
 
 # Screenshots of Blueprint mechanics and level design will be provided in the file tree.
 
+# Because of file restrictions I can only provide screenshots of my work on the project. 
+
 
 
