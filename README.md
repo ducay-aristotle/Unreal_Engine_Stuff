@@ -16,7 +16,7 @@ This project focus's on building a local multiplayer online session. the project
 - Experience importing Maya assets into unreal
 - Basic software engineering network skills
 
-# Screenshots of Blueprint mechanics will be provided in the file tree.
+# Screenshots of Blueprint mechanics and level design will be provided in the file tree.
 
 
 
