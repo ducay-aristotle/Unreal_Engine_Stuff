@@ -1,4 +1,4 @@
-## Unreal_Game_Exercise(Space Pirates)
+## Unreal_Engine_Stuff(Space Pirates/Other prototype projects)
 This project focus's on building a local multiplayer online session using the unreal editor and blueprints.
 
 
